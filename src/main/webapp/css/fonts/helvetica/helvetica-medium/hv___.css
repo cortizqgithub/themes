@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'HelveticaMedium';
+    src: url('hv___.eot');
+    src: url('hv___.eot') format('embedded-opentype'),
+         url('hv___.woff') format('woff'),
+         url('hv___.ttf') format('truetype'),
+         url('hv___.svg#HelveticaMedium') format('svg');
+}

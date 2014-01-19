@@ -45,7 +45,7 @@
 		</plugins>
 	</build>
 	<properties>
-		<liferay.theme.parent>_styled</liferay.theme.parent>
+		<liferay.theme.parent>classic</liferay.theme.parent>
 		<liferay.theme.type>vm</liferay.theme.type>
 	</properties>
 	<profiles>
