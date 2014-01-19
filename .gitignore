@@ -141,4 +141,8 @@ local.properties
 # Locally stored "Eclipse launch configurations"
 *.launch
 
-*.DS_Store*
+# Mac desktop service store files
+.DS_Store
+
+# Other
+packages
