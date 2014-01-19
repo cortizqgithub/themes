@@ -1,0 +1,415 @@
+﻿<header id="banner" role="banner" class="header">
+	<div class="top-header">
+    	<div class="pauta-superior-home">
+        	<div class="banner728-90"><img src="$images_folder/banner-728x90.jpg" alt="" width="728px" height="90" /></div>
+            <div class="banner220-90"><img src="$images_folder/banner-220x90.jpg" alt="" width="220px" height="90" /></div>
+            <div class="clear"></div>
+        </div>
+        <div class="section-header">
+        	<div class="information-clima"><img src="$images_folder/informacion-clima.png" alt="" />
+            	<div class="clima-desplegable"><img src="$images_folder/clima-desplegado.jpg" alt="" /></div>
+            </div>
+            <nav class="menu-superior">
+            	<ul>
+                	<li><a class="activo" href="#" target="_self">Inicio</a></li>
+                    <li><a href="#" target="_self">Nosotros</a></li>
+                    <li><a href="#" target="_blank">Anuncia</a></li>
+                    <li><a href="#" target="_blank">Intelecto</a></li>
+                    <li><a href="#" target="_self">Contáctenos</a></li>
+                </ul>
+            </nav>
+            <nav class="multimedia">
+            	<ul>
+                	<li><a class="impreso" href="#" target="_blank"><span class="icon-impreso spray"></span>Impreso</a></li>
+                    <li><a class="apps" href="#" target="_blank"><span class="icon-mobile spray"></span>Apps</a></li>
+                    <li><a class="multimedia" href="#" target="_blank"><span class="icon-video spray"></span>Multimedia</a></li>
+                </ul>
+            </nav>
+            <div class="inicio-sesion">
+            	<ul>
+                	<li><a class="various fancybox-iframe" data-fancybox-type="iframe" href="iniciar-sesion.html">Iniciar Sesión</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="bottom-header">
+    	<div class="top">
+        	<div class="logo"><a href="#" target="_self"><img src="$images_folder/logo.png" alt="" /></a></div>
+            <div class="temas-dia">
+            	<div class="titulo-tema-dia"></div>
+                <div class="tema1"><p>Dialogos de paz</p></div>
+                <div class="tema2"><p>Fería de Flores 2013</p></div>
+                <div class="tema3"><p>Mundial de fútbol</p></div>
+                <div class="tema4"><p>Imprudencia en el metro</p></div>
+                <div class="clear"></div>
+            </div>
+            <div class="search-network">
+            	<div class="network">
+                	<a href="#" target="_blank"><span class="icon-facebook-top spray"></span></a>
+                    <img src="$images_folder/separador-network.png" alt="" />
+                    <a href="#" target="_blank"><span class="icon-twitter-top spray"></span></a>
+                    <img src="$images_folder/separador-network.png" alt="" />
+                    <a href="#" target="_blank"><span class="icon-google-top spray"></span></a>
+                </div>
+                <div class="search">
+                	<form method="get" action="/search" id="search">
+  						<input name="q" type="text" size="40" placeholder="Buscador de noticias" />
+                        <span class="icon-search-top spray"></span>
+					</form>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="bottom">
+        	<nav class="nav-wrapper">
+              <ul class="nav">
+              
+              <!-- Antioquia -->
+              
+                <li class="antioquia"><a href="#">Antioquia</a>
+                  <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="" target="_self">Seguridad</a></li>
+                        <li><a href="" target="_self">Movilidad</a></li>
+                        <li><a href="" target="_self">Obras</a></li>
+                        <li><a href="" target="_self">Medio Ambiente</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-antioquia.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>Un libro para los parques del Centro</h3>
+                            <p><span><img src="$images_folder/bullet-antioquia.png" alt="" /></span>Antioquia / Actualidad / 08:32 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">U. de A. abrió y estudiantes no regresaron a sus clases</a></li>
+                        <li><a href="#">Medellinnovation llena la ciudad con actividades para todos</a></li>
+                        <li class="ultimo"><a href="#">Afectados por tragedia en Space encendieron una luz de esperanza</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Colombia -->
+                
+                <li class="colombia"><a href="#">Colombia</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Política</a></li>
+                        <li><a href="#">Salud</a></li>
+                        <li><a href="#">Educación</a></li>
+                        <li><a href="#">Paz y derechos humanos</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-colombia.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>Campesinos no ceden en paro del Catatumbo</h3>
+                            <p><span><img src="$images_folder/bullet-colombia.png" alt="" /></span>Colombia / Justicia / 07:55 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Mininterior definirá futuro de explotación minera en Piedras, Tolima</a></li>
+                        <li><a href="#">Corte no admite demanda del Mira contra el umbral del 3 por ciento</a></li>
+                        <li class="ultimo"><a href="#">Incautan bienes en Antioquia avalados en 18 mil millones</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Internacional -->
+                
+                <li class="internacional"><a href="#">Internacional</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">EE.UU.</a></li>
+                        <li><a href="#">Venezuela</a></li>
+                        <li><a href="#">Europa</a></li>
+                        <li><a href="#">Medio Oriente</a></li>
+                        <li><a href="#">Latinoamérica</a></li>
+                        <li><a href="#">Resto del Mundo</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-internacional.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>El día en que el tifón Yolanda hizo añicos al mundo</h3>
+                            <p><span><img src="$images_folder/bullet-internacional.png" alt="" /></span>Internacional / Actualidad / 08:41 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Oficialismo venezolano abre puertas a poderes especiales para Maduro</a></li>
+                        <li><a href="#">Barack Obama honró la memoria de los veteranos</a></li>
+                        <li class="ultimo"><a href="#">Rebeldes recuperan el control total de base cerca del aeropuerto de Alepo</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Negocios -->
+                
+                <li class="negocios"><a href="#">Negocios</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Empresas</a></li>
+                        <li><a href="#">Finanzas</a></li>
+                        <li><a href="#">Agro</a></li>
+                        <li><a href="#">Economía</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-negocios.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>La cobertura pensional preocupa a Latinoamérica</h3>
+                            <p><span><img src="$images_folder/bullet-negocios.png" alt="" /></span>Negocios / Economía / 01:41 PM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Confusión por descuento del Éxito</a></li>
+                        <li><a href="#">Exportadores colombianos se alistan para venderles a 1.000 compradores extranjeros</a></li>
+                        <li class="ultimo"><a href="#">Claves para que cuenta de ahorros no se convierta en un mayor gasto</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Deportes -->
+                
+                <li class="deportes"><a href="#">Deportes</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Fútbol</a></li>
+                        <li><a href="#">Liga Colombiana</a></li>
+                        <li><a href="#">Liga Europea</a></li>
+                        <li><a href="#">DIM</a></li>
+                        <li><a href="#">NAL</a></li>
+                        <li><a href="#">Brasil 2014</a></li>
+                        <li><a href="#">Otros deportes</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-deportes.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>Nacional y Millos definen otra corona</h3>
+                            <p><span><img src="$images_folder/bullet-deportes.png" alt="" /></span>Deportes / Fútbol / 07:34 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Valdés ve triste a Messi y a Neymar preparado para liderar al Barça</a></li>
+                        <li><a href="#">Ibrahimovic y Neymar firmes candidatos al Puskas de la Fifa</a></li>
+                        <li class="ultimo"><a href="#">Cristiano es el mejor profesional que he conocido: Mourinho</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Opinión -->
+                
+                <li class="opinion"><a href="#">Opinión</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Editoriales</a></li>
+                        <li><a href="#">Columnistas</a></li>
+                        <li><a href="#">Críticos</a></li>
+                        <li><a href="#">Caricaturas</a></li>
+                        <li><a href="#">Blogs</a></li>
+                        <li><a href="#">Defensor del lector</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-opinion.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>¿Crecerá el voto en blanco?</h3>
+                            <p><span><img src="$images_folder/bullet-opinion.png" alt="" /></span>Opinión / Editorial / 10:15 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">La caricatura del día</a></li>
+                        <li><a href="#">Verdad y transparencia en el debate electoral</a></li>
+                        <li class="ultimo"><a href="#">Para que el periodismo no colapse</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Cultura -->
+                
+                <li class="cultura"><a href="#">Cultura</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Cine</a></li>
+                        <li><a href="#">Libros</a></li>
+                        <li><a href="#">Música</a></li>
+                        <li><a href="#">Artes plásticas</a></li>
+                        <li><a href="#">Artes Escénicas</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-cultura.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>El arte de mirar y recorrer lo que se desconoce</h3>
+                            <p><span><img src="$images_folder/bullet-cultura.png" alt="" /></span>Cultura / Libros / 02:55 PM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Sale al mercado disco con actuaciones inéditas de The Beatles</a></li>
+                        <li><a href="#">Justin Bieber suspende concierto por intoxicación</a></li>
+                        <li class="ultimo"><a href="#">Carlos Baute le apuesta al talento colombiano</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Tecnología -->
+                
+                <li class="tecnologia"><a href="#">Tecnología</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Gadgets</a></li>
+                        <li><a href="#">Innovación</a></li>
+                        <li><a href="#">Cibercultura</a></li>
+                        <li><a href="#">Ciencia y medio ambiente</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-tecnologia.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>El consumo de tabletas pone en jaque al PC</h3>
+                            <p><span><img src="$images_folder/bullet-tecnologia.png" alt="" /></span>Tecnología / Gadgets / 10:56 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Spotify prepara su llegada a Colombia</a></li>
+                        <li><a href="#">El G2, nuevo smartphone de alta gama de LG, llega esta semana a Colombia</a></li>
+                        <li class="ultimo"><a href="#">Google + apuesta por la fotografía para atraer más usuarios</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Redes Sociales -->
+                
+                <li class="redes-sociales"><a href="#">Redes Sociales</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Trending topic</a></li>
+                        <li><a href="#">Noticias de lectores</a></li>
+                        <li><a href="#">Malala va a tu barrio</a></li>
+                        <li><a href="#">Twittercrónica</a></li>
+                        <li><a href="#">Blogs</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-redes-sociales.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>Privacidad en Internet, un asunto del ayer</h3>
+                            <p><span><img src="$images_folder/bullet-redes.png" alt="" /></span>Redes Sociales / Interacción / 11:40 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">Ciudadanos manifiestan su solidaridad con Uribe ante el plan de atentado de las Farc</a></li>
+                        <li><a href="#">Usuarios de Twitter vivieron el reinado a su manera</a></li>
+                        <li class="ultimo"><a href="#">Twitcam: ¿Qué se debe tener en cuenta al comprar un inmueble?</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                
+                <!-- Entretenimiento -->
+                
+                <li class="entretenimiento"><a href="#">Entretenimiento</a>
+                    <div>
+                    <div class="column-nav">
+                      <ul>
+                        <li><a href="#">Moda</a></li>
+                        <li><a href="#">Farándula</a></li>
+                        <li><a href="#">Televisión</a></li>
+                        <li><a href="#">Agenda</a></li>
+                        <li><a href="#">Pasatiempos</a></li>
+                        <li><a href="#">Turismo</a></li>
+                        <li><a href="#">Espacios</a></li>
+                        <li><a href="#">Motores</a></li>
+                        <li><a href="#">Sociales</a></li>
+                      </ul>
+                    </div>
+                    <div class="column-noticia-img">
+                      <figure class="content-noticias">
+                        <img src="$images_folder/noticia-entretenimiento.jpg" width="540px" height="235px" alt="" />
+                        <figcaption class="descripcion-noticia-img">
+                            <a href="#">
+                            <h3>Calle 13 estrena canción y video con Julian Assange</h3>
+                            <p><span><img src="$images_folder/bullet-entretenimiento.png" alt="" /></span>Entretenimiento / Farándula / 10:05 AM</p>
+                            </a>
+                        </figcaption>
+                      </figure>
+                    </div>
+                    <div class="column-selector-noticia">
+                      <ul class="content-noticias">
+                        <li><a href="#">De preguntas tontas y respuestas memorables</a></li>
+                        <li><a href="#">Holanda investigará a Miley Cyrus por fumar marihuana en los European Music Awards</a></li>
+                        <li class="ultimo"><a href="#">Fito Paez lanza Yo te amo, su nueva canción</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </nav>
+        </div>
+    </div>
+</header>

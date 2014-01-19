@@ -1,0 +1,165 @@
+﻿<footer class="footer" id="footer" role="contentinfo">
+  <div class="top">
+  	<div class="content">
+    	<div class="search">
+        	<form method="get" action="/search" id="search-footer">
+  				<input name="q" type="text" size="40" placeholder="Buscador de noticias" />
+                <span class="icon-search-bottom spray"></span>
+			</form>
+        </div>
+        <div class="inscripcion-mail spray">Suscríbase aquí</div>
+        <div class="clear"></div>
+    </div>
+  </div>
+  <div class="bottom">
+  	<div class="content">
+    	<ul class="menu-footer">
+        	<li class="antioquia">
+            	<h3><a href="" target="_self">Antioquia</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Seguridad</a></li>
+                    <li><a href="" target="_self">Movilidad</a></li>
+                    <li><a href="" target="_self">Obras</a></li>
+                    <li><a href="" target="_self">Medio Ambiente</a></li>
+                </ul>
+            </li>
+            <li class="colombia">
+            	<h3><a href="" target="_self">Colombia</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Metro</a></li>
+                    <li><a href="" target="_self">Política</a></li>
+                    <li><a href="" target="_self">Economía</a></li>
+                    <li><a href="" target="_self">Salud</a></li>
+                    <li><a href="" target="_self">Educación</a></li>
+                    <li><a href="" target="_self">Paz y derechos</a></li>
+                </ul>
+            </li>
+            <li class="internacional">
+            	<h3><a href="" target="_self">Internacional</a></h3>
+                <ul>
+                	<li><a href="" target="_self">EEUU</a></li>
+                    <li><a href="" target="_self">Latinoamérica</a></li>
+                    <li><a href="" target="_self">Europa</a></li>
+                    <li><a href="" target="_self">Asia y Medio oriente</a></li>
+                    <li><a href="" target="_self">África y oceanía</a></li>
+                </ul>
+            </li>
+            <li class="negocios">
+            	<h3><a href="" target="_self">Negocios</a></h3>
+                <ul>
+                	<li><a href="#" target="_self">Empresas</a></li>
+                    <li><a href="#" target="_self">Finanzas</a></li>
+                    <li><a href="#" target="_self">Agro</a></li>
+                    <li><a href="#" target="_self">Economía</a></li>
+                </ul>
+            </li>
+            <li class="deportes">
+            	<h3><a href="" target="_self">Deportes</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Fútbol</a></li>
+                    <li><a href="" target="_self">Liga Colombiana</a></li>
+                    <li><a href="" target="_self">Liga Europea</a></li>
+                    <li><a href="" target="_self">NAL</a></li>
+                    <li><a href="" target="_self">DIM</a></li>
+                    <li><a href="" target="_self">Otros deportes</a></li>
+                </ul>
+            </li>
+            <li class="opinion">
+            	<h3><a href="" target="_self">Opinión</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Editoriales</a></li>
+                    <li><a href="" target="_self">Columnistas</a></li>
+                    <li><a href="" target="_self">Críticas</a></li>
+                    <li><a href="" target="_self">Defensor del Lector</a></li>
+                    <li><a href="" target="_self">Blogs</a></li>
+                    <li><a href="" target="_self">Caricaturas</a></li>
+                </ul>
+            </li>
+            <li class="cultura">
+            	<h3><a href="" target="_self">Cultura</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Cine</a></li>
+                    <li><a href="" target="_self">Libros</a></li>
+                    <li><a href="" target="_self">Música</a></li>
+                    <li><a href="" target="_self">Artes plásticas</a></li>
+                    <li><a href="" target="_self">Danza y teatro</a></li>
+                </ul>
+            </li>
+            <li class="tecnologia">
+            	<h3><a href="" target="_self">Tecnología</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Gadgets</a></li>
+                    <li><a href="" target="_self">Videojuegos</a></li>
+                    <li><a href="" target="_self">Ciencia y medio ambiente</a></li>
+                </ul>
+            </li>
+            <li class="redes-sociales">
+            	<h3><a href="" target="_self">Redes Sociales</a></h3>
+                <ul>
+                	<li><a href="" target="_self">Trending topic</a></li>
+                    <li><a href="" target="_self">Noticias de lectores</a></li>
+                    <li><a href="" target="_self">Malala va a tu barrio</a></li>
+                    <li><a href="" target="_self">Twittercrónica</a></li>
+                    <li><a href="" target="_self">Blogs</a></li>
+                </ul>
+            </li>
+            <li class="entretenimiento">
+            	<h3><a href="" target="_self">Entretenimiento</a></h3>
+            	<ul>
+                	<li><a href="" target="_self">Moda</a></li>
+                    <li><a href="" target="_self">Farándula</a></li>
+                    <li><a href="" target="_self">Televisión</a>
+                    	<ul>
+                        	<li><a href="" target="_self">Programación</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="" target="_self">Agenda</a>
+                    	<ul>
+                        	<li><a href="" target="_self">Cartelera</a></li>
+                            <li><a href="" target="_self">Eventos</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="" target="_self">Pasatiempos</a>
+                    	<ul>
+                        	<li><a href="" target="_self">Sudoku</a></li>
+                            <li><a href="" target="_self">Crucigrama</a></li>
+                            <li><a href="" target="_self">Astrología</a></li>
+                            <li><a href="" target="_self">Lotería</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="" target="_self">Viajes</a></li>
+                    <li><a href="" target="_self">Espacios</a></li>
+                    <li><a href="" target="_self">Motores</a></li>
+                </ul>
+            </li>
+            <div class="clear"></div>
+        </ul>
+        <div class="cierre-pata">
+        	<div class="logo-pata"><a href="#" target="_self"><img src="$images_folder/logo.png" alt="" border="0" /></a></div>
+            <div class="creditos-sitio">
+            	<p>Copyright © 2013 EL COLOMBIANO S.A. & CIA. S.C.A. <br />
+				<a href="#" target="_blank">Términos y condiciones</a> | 
+                <a href="#" target="_blank">Política de privacidad y uso de información personal</a> |
+                <a href="#" target="_blank">Superintendencia de Industria y Comercio</a><br />
+				Nit: 890901352-3 | Dirección: Carrera 48 N° 30 Sur - 119, Envigado - Antioquia, Colombia<br />
+                Conmutador: (57) (4) 3315252 | Bogotá: (57) (1) 4156764 | Fax: (57) (1) 4157508 | Línea de atención al cliente: (57) (4) 3393333</p>
+            </div>
+            <div class="network-footer">
+            	<p>Síguenos en</p>
+                <a href="#" target="_blank"><span class="icon-facebook-footer spray"></span></a>
+                <a href="#" target="_blank"><span class="icon-twitter-footer spray"></span></a>
+                <a href="#" target="_blank"><span class="icon-google-footer spray"></span></a>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="menu-otras-publicaciones">
+        	<ul>
+            	<li class="revistas">- Revistas -</li>
+                <li class="otras-publicaciones">- Otras publicaciones -</li>
+                <li class="portales">- Portales -</li>
+            </ul>
+            <div class="content-logos"></div>
+        </div>
+    </div> 
+  </div>
+</footer>
